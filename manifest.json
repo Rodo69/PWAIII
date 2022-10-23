@@ -1,0 +1,17 @@
+{
+    "name": "Mi primera PWA",
+    "short_name": "Mi primera PWA",
+    "theme_color": "#ffe08a",
+    "background_color": "#ffe08a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./pwa.jpg",
+            "type": "image/jpg",
+            "sizes": "450x450"
+        }
+    ]
+}
