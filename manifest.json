@@ -10,8 +10,8 @@
     "icons": [
         {
             "src": "./pwa.jpg",
-            "type": "image/jpg",
-            "sizes": "450x450"
+            "type": "any",
+            "sizes": "any"
         }
     ]
 }
