@@ -9,7 +9,7 @@
     "start_url": "./",
     "icons": [
         {
-            "src": "./pwa.jpg",
+            "src": "./pwa.png",
             "type": "any",
             "sizes": "any"
         }
